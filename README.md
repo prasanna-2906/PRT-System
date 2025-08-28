@@ -1,5 +1,3 @@
-<img width="1918" height="966" alt="image" src="https://github.com/user-attachments/assets/193b4d32-4afc-467c-891c-753d91bf97ae" />"# PRT-System"
-
 #Home Page
 <img width="1918" height="966" alt="428135216-ba836438-968c-4b7c-b063-891c8065af90" src="https://github.com/user-attachments/assets/2e73f923-b2f4-46d0-9a8b-8b1e12bf7cef" />
 
